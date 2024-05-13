@@ -1,10 +1,10 @@
 {
-  "title": "Hello-world",
-  "shortName": "hello-world-2",
-  "description": "Hello world simple webcomp example",
-  "descriptionAbstract": "Hello world simple webcomp example",
+  "title": "webcomp-attractionsBolzano",
+  "shortName": "attractionsBz",
+  "description": "Touristic guide for the city of Bolzano",
+  "descriptionAbstract": "Touristic guide for the city of Bolzano",
   "license": "AGPL-3.0-or-later",
-  "repositoryUrl": "https://your-repository.git",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-attractionsBolzano",
   "copyrightHolders": [
     {
       "name": "NOI",
@@ -15,10 +15,16 @@
   ],
   "authors": [
     {
-      "name": "...",
-      "email": "...",
-      "organization": "...",
-      "organizationUrl": "..."
+      "name": "Ridvan Plluzhina",
+      "email": "Ridvan.plluzhina@student.unibz.it",
+      "organization": "Free University of Bolzano-Bozen",
+      "organizationUrl": "https://www.unibz.it/"
+    },
+    {
+      "name": "Fabio Schick",
+      "email": "fabio.schick@student.unibz.it",
+      "organization": "Free University of Bolzano-Bozen",
+      "organizationUrl": "https://www.unibz.it/"
     }
   ],
   "image": "wcs-logo.png",
@@ -28,8 +34,7 @@
     "files": [
       "webcomp-boilerplate.min.js"
     ],
-    "scripts": [
-    ]
+    "scripts": []
   },
   "configuration": {
     "tagName": "hello-world",
