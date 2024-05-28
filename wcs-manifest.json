@@ -27,7 +27,7 @@
       "organizationUrl": "https://www.unibz.it/"
     }
   ],
-  "image": "wcs-logo.png",
+  "image": "webcomponent-Image.png",
   "searchTags": [],
   "dist": {
     "basePath": "dist",
